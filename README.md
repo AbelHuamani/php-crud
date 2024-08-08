@@ -2,10 +2,10 @@
 
 - realizamiento de mi primer crud utilizando 
 
-  boostrap 
+   * boostrap 
 
-  neon como base de datos
+   * neon como base de datos
 
-  lenguaje php
+   * lenguaje php
 
-  css y js
+   * css y js
